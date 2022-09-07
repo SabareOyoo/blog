@@ -118,8 +118,8 @@ const Spotify = ({ data }) => {
 
 const ProfileInfo = () => (
   <div className="hidden xl:block xl:px-6 py-4">
-    <h1 className="text-xl font-semibold text-gray-800 dark:text-white">Tuan Anh (Leo) Huynh</h1>
-    <p className="py-2 text-gray-700 dark:text-gray-400">Learner | Builder</p>
+    <h1 className="text-xl font-semibold text-gray-800 dark:text-white">Brian Oyoo Sabare</h1>
+    <p className="py-2 text-gray-700 dark:text-gray-400">Lawyer | Accountant</p>
     <div className="space-y-4 mt-4 mb-2">
       <div className="flex items-center text-gray-700 dark:text-gray-200">
         <svg
@@ -137,7 +137,7 @@ const ProfileInfo = () => (
           />
         </svg>
 
-        <p className="px-2">Self-employed - building products</p>
+        <p className="px-2">Advocate Trainee at Kenya School Of Law</p>
       </div>
       <div className="flex items-center text-gray-700 dark:text-gray-200">
         <svg
@@ -162,9 +162,9 @@ const ProfileInfo = () => (
         </svg>
 
         <p className="px-2">
-          [::1]:443 - Ha Noi,
+          <span className="font-semibold">Nairobi, Kenya</span>
           <span className="align-middle flag-vn ml-1">
-            <Twemoji emoji="flag-vietnam" />
+            <Twemoji emoji="flag" />
           </span>
         </p>
       </div>
@@ -183,8 +183,8 @@ const ProfileInfo = () => (
             d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
           />
         </svg>
-        <a className="px-2" href="mailto:leohuynh@proton.me">
-          leohuynh@proton.me
+        <a className="px-2" href="mailto:sabarebrian@gmail.com">
+          sabarebrian@gmail
         </a>
       </div>
       <div className="flex items-center text-gray-700 dark:text-gray-200">
@@ -205,20 +205,20 @@ const ProfileInfo = () => (
         <p className="px-2">
           <a
             target="_blank"
-            href="https://github.com/hta218"
+            href="https://github.com/SabareOyoo"
             rel="noreferrer"
             className="hover:underline"
           >
-            gh/hta218
+            SabareOyoo
           </a>
           ,{' '}
           <a
             target="_blank"
-            href="https://twitter.com/hta218_"
+            href="https://twitter.com/SabareOyoo"
             rel="noreferrer"
             className="hover:underline"
           >
-            tw/hta218_
+            SabareOyoo
           </a>
         </p>
       </div>

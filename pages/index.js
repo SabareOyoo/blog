@@ -28,17 +28,15 @@ export default function Home({ posts }) {
             <p
               className={`mb-8 text-4xl leading-[60px] font-extrabold tracking-tight text-transparent bg-clip-text ${headingColorClass} md:text-7xl md:leading-[86px]`}
             >
-              Howdy, fellow! <i className="twa twa-waving-hand"></i>
+              Duty and Diligence Tax Blog<i className="heading"></i>
             </p>
 
             <div className="text-lg leading-8 text-gray-600 dark:text-gray-400">
               <h1 className="text-neutral-900 dark:text-neutral-200">
-                I'm <span className="font-medium">Tuan Anh Huynh</span> - an open-minded{' '}
-                <span className="font-medium">Software Engineer</span> in{' '}
-                <span className="font-medium hidden">Ha Noi, VN</span>
-                <span className="align-middle flag-vn">
-                  <Twemoji emoji="flag-vietnam" />
-                </span>
+                I'm <span className="font-medium">Brian </span> an open-minded{' '}
+                <span className="font-medium">Lawyer | Accountant </span> in{' '}
+                <span className="font-medium"> Nairobi, Kenya</span>
+                <span className="align-middle flag-vn"></span>
               </h1>
               <TypedBios />
               <p className="mt-4 mb-8">

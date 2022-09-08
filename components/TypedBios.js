@@ -32,7 +32,7 @@ const TypedBios = () => {
           I'm a <b className="font-medium">Tax Lawyer.</b>
         </li>
         <li>
-          I was from the beautiful city of <b className="font-medium">Nairobi</b> Kenya.
+          I was from the city under the sun <b className="font-medium">Nairobi</b> Kenya.
         </li>
         <li>
           I'm a sport-guy. I love

@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Duty And Diligence Tax Blog ',
   footerTitle: 'Duty And Diligence Tax Blog ',
   description:
-    "Leo's coding journey - programming, working and life stories through the keyboard of an open minded Software Engineer",
+    "Sabare Oyoo's Tax Blog - programming, working and life stories through the keyboard of an open minded Software Engineer",
   snippets: 'Reuseable code snippets collected by Leo',
   language: 'en-us',
   siteUrl: 'https://',
@@ -15,7 +15,7 @@ const siteMetadata = {
   email: 'sabarebrian@gmail.com',
   github: 'https://github.com/SabareOyoo',
   twitter: 'https://twitter.com/SabareOyoo',
-  facebook: 'https://facebook.com/hta218',
+  facebook: 'https://facebook.com/SabareOyoo',
   youtube: 'https://www.youtube.com/channel/UCHXjj6ewfDIjx_Op3hqijlg',
   linkedin: 'https://www.linkedin.com/in/SabareOyoo/',
   locale: 'en-US',

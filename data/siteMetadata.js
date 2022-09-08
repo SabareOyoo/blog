@@ -16,7 +16,6 @@ const siteMetadata = {
   github: 'https://github.com/SabareOyoo',
   twitter: 'https://twitter.com/SabareOyoo',
   facebook: 'https://facebook.com/SabareOyoo',
-  youtube: 'https://www.youtube.com/channel/UCHXjj6ewfDIjx_Op3hqijlg',
   linkedin: 'https://www.linkedin.com/in/SabareOyoo/',
   locale: 'en-US',
   analytics: {

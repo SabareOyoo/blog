@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Duty And Diligence Tax Blog ',
-  author: 'Leo Huynh',
+  author: 'Victor Oketch Sabare',
   headerTitle: 'Duty And Diligence Tax Blog ',
   footerTitle: 'Duty And Diligence Tax Blog ',
   description:

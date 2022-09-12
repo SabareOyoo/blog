@@ -40,26 +40,18 @@ export default function Home({ posts }) {
               </h1>
               <TypedBios />
               <p className="mt-4 mb-8">
-                I started my coding journey in 2016 with C/C++/Java in college.
+                This is the Duty And Diligence Tax Blog.
                 <br />
-                I had my first job as a Python coding mentor in 2017.
+                By: Sabare Oyoo
                 <br />
-                I'm in love with the JS ecosystem, web dev, and eCommerce.
+                LLB Hons, Post Graduate Diploma in Law Student at Kenya School of Law
                 <br />
-                I'm writing this blog to note down and share what I've learned as a SE.
+                ACCA Affiliate, Strathmore University
               </p>
               <div className="flex flex-col space-y-1">
-                <Link href="/projects" className="hover:underline">
-                  <Twemoji emoji="hammer-and-wrench" />
-                  <span className="ml-2">What have I built?</span>
-                </Link>
                 <Link href="/blog" className="hover:underline">
                   <Twemoji emoji="memo" />
                   <span className="ml-2">My writings</span>
-                </Link>
-                <Link href="/snippets" className="hover:underline">
-                  <Twemoji emoji="dna" />
-                  <span className="ml-2">Useful snippets collected by me</span>
                 </Link>
                 <Link href="/about" className="hover:underline">
                   <Twemoji emoji="face-with-monocle" />
@@ -71,7 +63,8 @@ export default function Home({ posts }) {
                 </Link>
               </div>
               <p className="my-8">
-                Happy reading <Twemoji emoji="clinking-beer-mugs" />
+                Happy reading ⚖️📚️
+                <Twemoji emoji="" />
               </p>
             </div>
           </div>
@@ -79,6 +72,11 @@ export default function Home({ posts }) {
             <ProfileCard />
           </div>
         </div>
+      </div>
+      <div>
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 md:text-3xl">
+          Latest Posts
+        </h2>
       </div>
       <div className="border-t border-gray-200 dark:border-gray-700">
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
